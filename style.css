@@ -1,0 +1,74 @@
+h1{
+    color: rgba(4, 0, 255, 0.925);
+    background-color: black;
+}
+
+.web{
+    
+    text-align: center;
+    
+
+}
+
+
+
+
+
+.code{
+    
+    text-align: center;
+}
+
+.game{
+     
+    background-color: rgb(38, 0, 255);
+     text-align: center;
+     color: chartreuse;
+
+}
+
+
+
+.body{
+    background-color: chartreuse;
+}
+
+.P1{
+
+    color: black;
+    text-align: center;
+    
+}
+
+.game{
+   text-align: center;
+}
+
+
+.header{
+    text-align: center;
+    background-color: rgb(255, 0, 149);
+}
+
+
+.last{
+    color: cyan;
+    text-align: center;
+    background-color: black;
+}
+
+
+
+.MYSELF{
+    text-align: center;
+    background-color: rgb(247, 247, 248);
+}
+
+.GTA5{
+    text-align: center;
+}
+
+
+.link{
+    text-align: center;
+}
